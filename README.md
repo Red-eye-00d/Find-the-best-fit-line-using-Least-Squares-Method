@@ -52,14 +52,14 @@ plt.show()
 
 ## Output:
 ![best fit line](sam.png)
-
+```
 Enter x values (e.g., [1, 2, 3]): 8,2,11,6,5,4,12,9,6,1
 Enter y values (e.g., [2, 4, 5]): 3,10,3,6,8,12,1,4,9,14
 Slope (m): -1.106418918918919
 Intercept (b): 14.081081081081082
 Predicted y values: [ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9.65540541
   0.80405405  4.12331081  7.44256757 12.97466216]
-
+```
   
 ![image](https://github.com/user-attachments/assets/2e72078a-0660-414c-9a51-659ca1116875)
 
